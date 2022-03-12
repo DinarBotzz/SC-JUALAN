@@ -1,6 +1,6 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 ye = `@${m.sender.split`@`[0]}`
-let info = `Hai Kak ${ye} beli aja jasa run di link ini
+let info = `Hai Kak ${ye} ini sc nya
 • https://bit.ly/3H3gy2z
 
 Join grup developer untuk info lebih lanjut,-
