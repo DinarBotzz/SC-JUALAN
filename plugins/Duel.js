@@ -1,5 +1,5 @@
 /*
-* By Rizxyu
+* By DinarBotz
 * Terimakasih udah support saya bang
 * Fitur Beta
 */
