@@ -1,7 +1,7 @@
 {
-  "name": "Zibotz",
+  "name": "DinarBotz",
   "version": "1.5.0",
-  "description": "By BOTCAHX",
+  "description": "By DinarBotz",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -21,7 +21,7 @@
   ],
   "homepage": "https://github.com/BOTCAHX/BOTCAHXtm",
   "author": {
-    "name": "Tio Permana"
+    "name": "Dinar Botz"
   },
   "repository": {
     "type": "git",
